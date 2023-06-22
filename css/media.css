@@ -1,0 +1,64 @@
+@media screen and (max-width: 916px) {
+    .img_kosmetolog {
+        width: 85%;
+    }
+}
+@media screen and (max-width: 857px) {
+    .cream_castle{
+        font-size: 18px;
+    }
+    .cream_text{
+        font-size: 14px;
+    }
+    .cream_text2 {
+        font-size: 17px;
+    }
+    .btn_cream {
+        font-size: 15px;
+        padding: 17px 36px;
+    }
+}
+@media screen and (max-width: 754px) {
+    .img_kosmetolog {
+        width: 68%;
+    }
+    .cream_castle{
+        font-size: 13px;
+    }
+    .cream_text{
+        font-size: 13px;
+    }
+    .cream_text2 {
+        font-size: 15px;
+    }
+    .btn_cream {
+        font-size: 15px;
+        padding: 17px 36px;
+    }
+    .sss{
+        height: 456px;
+
+    }
+}
+@media screen and (max-width: 666px) {
+    .img_kosmetolog {
+        width: 55%;
+    }
+    .cream_castle{
+        font-size: 11px;
+    }
+    .cream_text{
+        font-size: 10px;
+    }
+    .cream_text2 {
+        font-size: 12px;
+    }
+    .btn_cream {
+        font-size: 12px;
+        padding: 9px 26px;
+    }
+    .sss{
+        height: 456px;
+
+    }
+}
